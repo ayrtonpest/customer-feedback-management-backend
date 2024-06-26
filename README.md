@@ -59,7 +59,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/customer-feedback-backend.git
+git clone https://github.com/ayrtonpest/customer-feedback-backend.git
 cd customer-feedback-backend
 
 ### Install Dependencies
